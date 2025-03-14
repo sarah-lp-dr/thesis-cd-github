@@ -1,0 +1,1 @@
+os.system('gdalwarp -t_srs EPSG:31370 -tr 2 2 C:/Users/sarah/OneDrive/Documenten/GitHub/thesis-cds-github/Data/tifs/test_area_DHMVIIDTMRAS1m_k32.tif C:/Users/sarah/OneDrive/Documenten/GitHub/thesis-cds-github/Data/tifs/test_area_DHMVIIDTMRAS1m_k32_rescaled_2m.tif')
