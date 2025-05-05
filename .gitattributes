@@ -1,5 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-test_area_non_CD_featuresb.npy filter=lfs diff=lfs merge=lfs -text
-test_area_CD_featuresb.npy filter=lfs diff=lfs merge=lfs -text
-*.npy filter=lfs diff=lfs merge=lfs -text
